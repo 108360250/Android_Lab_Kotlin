@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756310324398",
+    "project_id": "fast-pagoda-336119",
+    "storage_bucket": "fast-pagoda-336119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756310324398:android:0425ef60c9b9e831f4e93f",
+        "android_client_info": {
+          "package_name": "com.rocky.lab18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756310324398-1d8srlph5bi6ri248hh2v9h28ng1nfbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOF9N4YapZlrTkpoVOPoPqo5p6VaFbvac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756310324398-1d8srlph5bi6ri248hh2v9h28ng1nfbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
